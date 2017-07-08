@@ -1,5 +1,7 @@
 package com.akp.ds.linkedlist;
 
+import java.util.LinkedList;
+
 public class MyLinkedList {
 	
 	Node<String> head = null;
@@ -9,7 +11,7 @@ public class MyLinkedList {
 	
 	public static void main(String[] args) {
 		LinkedList<String> linkedList1 = new LinkedList<>();
-		linkedList1.
+		linkedList1.add("abc");
 	}
 	
 	
