@@ -288,7 +288,9 @@ public class LinkedList1<E>
   public E get(int index) {
     }
 
-     public E set(int index, E element);
+     public E set(int index, E element){
+    	 
+     }
 
     /**
      * Inserts the specified element at the specified position in this list.
