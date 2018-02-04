@@ -286,7 +286,7 @@ public class LinkedList1<E>
      public void clear() {}
 
   public E get(int index) {
-        return null;
+        return "";
     }
 
      public E set(int index, E element){
